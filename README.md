@@ -110,14 +110,6 @@ It's a good practice to store sensitive information like API keys and URLs in a 
 
 ## 4. Troubleshooting Common Errors
 
-### 4.1. `beeai_framework.backend.errors.ChatModelError: Chat Model error`
-
-The error message you encountered indicates an issue with the chat model within the `beeai_framework`. The specific error is an `AuthenticationError` from `litellm`.
-
-**(The rest of the troubleshooting guide from the original document is included below as requested.)**
-
-<h1 align="center">watsonx Troubleshooting Guide</h1>
-
 ## Summary
 
 Instructions how to navigate and troubleshoot issues on Techzone's watsonx Certified Base images. This guide shows workaround and provides background information on common errors and known issues.
